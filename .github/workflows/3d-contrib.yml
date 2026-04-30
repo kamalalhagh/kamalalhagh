@@ -1,0 +1,46 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:           # allows manual trigger from GitHub UI
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: kamalalhagh
+          SETTING_JSON: |
+            {
+              "githubUserName": "kamalalhagh",
+              "backgroundColor": "#0d1117",
+              "foregroundColor": "#00FF41",
+              "baseColor": "#161b22",
+              "outfileList": [
+                {
+                  "filename": "profile-3d-contrib/profile-night-green.svg",
+                  "type": "profileNightGreen"
+                }
+              ]
+            }
+
+      - name: Push to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/
+          git diff --cached --quiet || git commit -m "chore: update 3D contribution graph"
+          git push
