@@ -1,0 +1,26 @@
+<svg width="720" height="351" viewBox="0 0 720 351" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="351" rx="10" fill="#0d1117"/>
+  <rect width="720" height="36" rx="10" fill="#161b22"/>
+  <rect y="28" width="720" height="8" fill="#161b22"/>
+  <rect y="35" width="720" height="1" fill="#21262d"/>
+  <circle cx="20" cy="18" r="6" fill="#FF5F57"/>
+  <circle cx="40" cy="18" r="6" fill="#FFBD2E"/>
+  <circle cx="60" cy="18" r="6" fill="#28C840"/>
+  <text x="360" y="23" text-anchor="middle" fill="#6e7681"
+    font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="11.5">kevin@melbourne: ~ — about.json</text>
+  <text x="18" y="67" fill="#484f58" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">{</text>
+  <text x="18" y="86" fill="#c9d1d9" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">  &quot;name&quot;       :  &quot;Kevin Haji&quot;,</text>
+  <text x="18" y="105" fill="#00D9FF" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">  &quot;role&quot;       :  &quot;Full Stack Developer &amp; Security Engineer&quot;,</text>
+  <text x="18" y="124" fill="#c9d1d9" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">  &quot;location&quot;   :  &quot;Highett, Melbourne, Victoria 3190&quot;,</text>
+  <text x="18" y="143" fill="#c9d1d9" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">  &quot;experience&quot; :  &quot;6+ years across AU &amp; globally&quot;,</text>
+  <text x="18" y="162" fill="#484f58" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">  &quot;focus&quot;      :  [</text>
+  <text x="18" y="181" fill="#00FF41" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">                    &quot;Scalable web applications &amp; APIs&quot;,</text>
+  <text x="18" y="200" fill="#00FF41" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">                    &quot;Cloud infrastructure (AWS + Azure)&quot;,</text>
+  <text x="18" y="219" fill="#00FF41" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">                    &quot;Linux systems &amp; DevOps automation&quot;,</text>
+  <text x="18" y="238" fill="#00FF41" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">                    &quot;CRM platforms &amp; business intelligence&quot;,</text>
+  <text x="18" y="257" fill="#00FF41" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">                    &quot;Network security &amp; cybersecurity&quot;</text>
+  <text x="18" y="276" fill="#484f58" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">                  ],</text>
+  <text x="18" y="295" fill="#00D9FF" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">  &quot;status&quot;     :  &quot;◉  Available for contracts &amp; collaborations&quot;,</text>
+  <text x="18" y="314" fill="#E8A87C" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">  &quot;contact&quot;    :  &quot;kevinhaji.com&quot;</text>
+  <text x="18" y="333" fill="#484f58" font-family="JetBrains Mono, Menlo, Monaco, Consolas, monospace" font-size="12.5" xml:space="preserve">}</text>
+</svg>
