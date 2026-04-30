@@ -1,10 +1,10 @@
 <!-- HEADER -->
-<a href="https://kevinhaji.com" target="_blank"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00FF41,70:00D9FF,100:0d1117&height=220&section=header&text=Kevin%20Haji&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Security%20Engineer%20%7C%20Melbourne%20AU&descAlignY=58&descSize=18&descColor=00FF41"/></a>
+<a href="https://kevinhaji.com" target="_blank" rel="noopener noreferrer"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00FF41,70:00D9FF,100:0d1117&height=220&section=header&text=Kevin%20Haji&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Security%20Engineer%20%7C%20Melbourne%20AU&descAlignY=58&descSize=18&descColor=00FF41"/></a>
 
 <!-- TYPING + BADGES -->
 <div align="center">
 
-<a href="https://kevinhaji.com" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=root%40kevin%3A~%24+whoami;%3E+Full+Stack+Developer+%7C+6%2B+years;%3E+Python+%C2%B7+Django+%C2%B7+React+%C2%B7+Node.js;%3E+AWS+%C2%B7+Azure+%C2%B7+Docker+%C2%B7+Kubernetes;%3E+LPIC-1+%26+LPIC-2+Certified+Linux+Engineer;%3E+Google+Cybersecurity+%C2%B7+EC-Council+Certified;%3E+Building+things+that+scale." alt="Typing SVG"/></a>
+<a href="https://kevinhaji.com" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=root%40kevin%3A~%24+whoami;%3E+Full+Stack+Developer+%7C+6%2B+years;%3E+Python+%C2%B7+Django+%C2%B7+React+%C2%B7+Node.js;%3E+AWS+%C2%B7+Azure+%C2%B7+Docker+%C2%B7+Kubernetes;%3E+LPIC-1+%26+LPIC-2+Certified+Linux+Engineer;%3E+Google+Cybersecurity+%C2%B7+EC-Council+Certified;%3E+Building+things+that+scale." alt="Typing SVG"/></a>
 
 <br/>
 
