@@ -19,16 +19,32 @@
 
 ---
 
-<!-- ABOUT — Mac terminal SVG (no copy button) -->
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/about.svg"/>
-</div>
+<!-- ─── ABOUT ─────────────────────────────────────────────────────────── -->
+<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/bar_about.svg"/>
+
+```json
+{
+  "name"       :  "Kevin Haji",
+  "role"       :  "Full Stack Developer & Security Engineer",
+  "location"   :  "Highett, Melbourne, Victoria 3190",
+  "experience" :  "6+ years across AU & globally",
+  "focus"      :  [
+                    "Scalable web applications & APIs",
+                    "Cloud infrastructure (AWS + Azure)",
+                    "Linux systems & DevOps automation",
+                    "CRM platforms & business intelligence",
+                    "Network security & cybersecurity"
+                  ],
+  "status"     :  "◉  Available for contracts & collaborations",
+  "contact"    :  "kevinhaji.com"
+}
+```
 
 <br/>
 
 ---
 
-<!-- SKILL ICONS -->
+<!-- ─── SKILLS ─────────────────────────────────────────────────────────── -->
 <div align="center">
 
 ### `// LANGUAGES`
@@ -49,7 +65,7 @@
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- ─── GITHUB STATS ───────────────────────────────────────────────────── -->
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamalalhagh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00D9FF&text_color=c9d1d9&ring_color=00FF41"/>
@@ -66,7 +82,7 @@
 
 ---
 
-<!-- ACTIVITY GRAPH -->
+<!-- ─── ACTIVITY GRAPH ─────────────────────────────────────────────────── -->
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamalalhagh&bg_color=0d1117&color=00FF41&line=00D9FF&point=ffffff&area=true&area_color=00FF4122&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/kamalalhagh)
@@ -77,54 +93,94 @@
 
 ---
 
-<!-- TROPHIES — Mac terminal title bar SVG -->
+<!-- ─── TROPHIES ───────────────────────────────────────────────────────── -->
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/trophy_bar.svg"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/bar_trophies.svg"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kamalalhagh&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/kamalalhagh)
+
 </div>
 
 <br/>
 
 ---
 
-<!-- SNAKE — Mac terminal title bar SVG -->
+<!-- ─── SNAKE ──────────────────────────────────────────────────────────── -->
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/snake_bar.svg"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/bar_snake.svg"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/kamalalhagh/kamalalhagh/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kamalalhagh/kamalalhagh/blob/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://github.com/kamalalhagh/kamalalhagh/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
 </div>
 
 <br/>
 
 ---
 
-<!-- EXPERIENCE — Mac terminal SVG (no copy button) -->
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/experience.svg"/>
-</div>
+<!-- ─── EXPERIENCE ─────────────────────────────────────────────────────── -->
+<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/bar_experience.svg"/>
+
+```diff
++ [2025 → NOW]  Zoho CRM Consultant & Developer @ AZYC  (Contract · Melbourne)
+               Multi-org CRM framework · Automated compliance · Incident management
+               Reduced admin overhead for 100+ org leaders across AU + NZ
+
++ [2023 → 2025] Full Stack Developer @ Medical Note AI  (Melbourne)
+               Healthcare AI documentation platform · Python (Django) + JavaScript
+@@             Voice transcription optimised → −30% processing time              @@
+               Australian compliance standards · Third-party API integration
+
++ [2020 → 2023] Full Stack Developer @ LaptopHub
+               E-commerce · 5000-item catalogue management
+@@             Page load optimisation → −45% load time                           @@
+
++ [2019 → 2020] Full Stack Developer @ SeploChem
+               AWS Lambda & ECS · SEO strategy implementation
+@@             +46% organic traffic  ·  +27% product inquiry rate                @@
+
++ [2018 → 2019] IT Technician @ ZegalShomal
+               Linux sysadmin · Database tuning · Scripted maintenance
+@@             −28% query time  ·  −33% IT issue resolution time                 @@
+```
 
 <br/>
 
 ---
 
-<!-- CERTS — Mac terminal SVG (no copy button) -->
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/certs.svg"/>
-</div>
+<!-- ─── CERTIFICATIONS ─────────────────────────────────────────────────── -->
+<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/bar_certs.svg"/>
+
+```
+-rw-r--r--  IBM          Back-End Development Professional          [11 courses]
+-rw-r--r--  AWS          Cloud Technology Consultant Professional    [ 9 courses]
+-rw-r--r--  Google       Cybersecurity Professional                  [ 8 courses]
+-rw-r--r--  Google       Data Analytics Professional                 [ 8 courses]
+-rw-r--r--  Google       Advanced Data Analytics Professional        [ 7 courses]
+-rw-r--r--  EC-Council   Cybersecurity Attack & Defence Fundamentals [ 3 courses]
+-rw-r--r--  LPI          LPIC-1 Linux Administrator                  [certified]
+-rw-r--r--  LPI          LPIC-2 Linux Engineer                       [certified]
+-rw-r--r--  U.Michigan   Python for Everybody Specialization         [ 5 courses]
+-rw-r--r--  UC Irvine    Getting Started with Go                     [ 3 courses]
+```
 
 <br/>
 
 ---
 
-<!-- EDUCATION — Mac terminal SVG (no copy button) -->
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/education.svg"/>
-</div>
+<!-- ─── EDUCATION ──────────────────────────────────────────────────────── -->
+<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/bar_education.svg"/>
+
+```
+Amirkabir University of Technology
+  └─ Bachelor of Engineering
+       └─ Graduated: 2018
+```
 
 <br/>
 
