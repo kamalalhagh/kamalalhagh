@@ -4,7 +4,7 @@
 <!-- TYPING -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=root%40kevin%3A~%24+whoami;%3E+Full+Stack+Developer+%7C+6%2B+years;%3E+Python+%C2%B7+Django+%C2%B7+React+%C2%B7+Node.js;%3E+AWS+%C2%B7+Azure+%C2%B7+Docker+%C2%B7+Kubernetes;%3E+LPIC-1+%26+LPIC-2+Certified+Linux+Engineer;%3E+Google+Cybersecurity+%C2%B7+EC-Council+Certified;%3E+Building+things+that+scale.)](https://kevinhaji.com)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=root%40kevin%3A~%24+whoami;%3E+Full+Stack+Developer+%7C+6%2B+years;%3E+Python+%C2%B7+Django+%C2%B7+React+%C2%B7+Node.js;%3E+AWS+%C2%B7+Azure+%C2%B7+Docker+%C2%B7+Kubernetes;%3E+LPIC-1+%26+LPIC-2+Certified+Linux+Engineer;%3E+Google+Cybersecurity+%C2%B7+EC-Council+Certified;%3E+Building+things+that+scale.)
 
 <br/>
 
@@ -48,16 +48,16 @@
 <div align="center">
 
 ### `// LANGUAGES`
-[![](https://skillicons.dev/icons?i=python,js,php,go,cs,cpp,bash&theme=dark)](https://kevinhaji.com)
+![](https://skillicons.dev/icons?i=python,js,php,go,cs,cpp,bash&theme=dark)
 
 ### `// FRAMEWORKS & RUNTIMES`
-[![](https://skillicons.dev/icons?i=django,flask,react,nodejs,jquery,bootstrap&theme=dark)](https://kevinhaji.com)
+![](https://skillicons.dev/icons?i=django,flask,react,nodejs,jquery,bootstrap&theme=dark)
 
 ### `// DATABASES`
-[![](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis&theme=dark)](https://kevinhaji.com)
+![](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis&theme=dark)
 
 ### `// CLOUD · DEVOPS · INFRA`
-[![](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,jenkins,powershell&theme=dark)](https://kevinhaji.com)
+![](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,jenkins,powershell&theme=dark)
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kamalalhagh&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00D9FF&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=8b949e&stroke=00FF4122)](https://github.com/kamalalhagh)
+![GitHub Streak](https://streak-stats.demolab.com?user=kamalalhagh&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00D9FF&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=8b949e&stroke=00FF4122)
 
 </div>
 
@@ -85,7 +85,7 @@
 <!-- ─── ACTIVITY GRAPH ─────────────────────────────────────────────────── -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamalalhagh&bg_color=0d1117&color=00FF41&line=00D9FF&point=ffffff&area=true&area_color=00FF4122&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/kamalalhagh)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamalalhagh&bg_color=0d1117&color=00FF41&line=00D9FF&point=ffffff&area=true&area_color=00FF4122&hide_border=true&custom_title=Contribution%20Activity)
 
 </div>
 
@@ -98,7 +98,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/bar_trophies.svg"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kamalalhagh&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/kamalalhagh)
+![trophy](https://github-profile-trophy.vercel.app/?username=kamalalhagh&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
@@ -189,7 +189,7 @@ Amirkabir University of Technology
 <!-- FOOTER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00FF4199&center=true&vCenter=true&width=600&lines=%5B+Open+to+contracts%2C+collaborations%2C+and+interesting+problems+%5D)](https://kevinhaji.com)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00FF4199&center=true&vCenter=true&width=600&lines=%5B+Open+to+contracts%2C+collaborations%2C+and+interesting+problems+%5D)
 
 [![Website](https://img.shields.io/badge/◈_kevinhaji.com-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF41)](https://kevinhaji.com)
 [![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/kevinhaji)
