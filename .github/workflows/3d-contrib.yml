@@ -2,8 +2,8 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:           # allows manual trigger from GitHub UI
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -23,19 +23,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: kamalalhagh
-          SETTING_JSON: |
-            {
-              "githubUserName": "kamalalhagh",
-              "backgroundColor": "#0d1117",
-              "foregroundColor": "#00FF41",
-              "baseColor": "#161b22",
-              "outfileList": [
-                {
-                  "filename": "profile-3d-contrib/profile-night-green.svg",
-                  "type": "profileNightGreen"
-                }
-              ]
-            }
 
       - name: Push to repo
         run: |
