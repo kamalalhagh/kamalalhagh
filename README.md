@@ -76,11 +76,11 @@
 ### `// FEATURED WORK`
 
 <a href="https://github.com/kamalalhagh/kevinnet-dns" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamalalhagh&repo=kevinnet-dns&theme=transparent&bg_color=0d1117&title_color=00FF41&icon_color=00D9FF&text_color=c9d1d9&hide_border=true&description_lines_count=2" alt="KevinNet DNS"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamalalhagh&repo=kevinnet-dns&bg_color=0d1117&title_color=00FF41&icon_color=00D9FF&text_color=c9d1d9&hide_border=true&description_lines_count=2&cache_seconds=86400" alt="KevinNet DNS"/>
 </a>
 &nbsp;
 <a href="https://github.com/kamalalhagh/kamalalhagh" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamalalhagh&repo=kamalalhagh&theme=transparent&bg_color=0d1117&title_color=00FF41&icon_color=00D9FF&text_color=c9d1d9&hide_border=true&description_lines_count=2" alt="Profile"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamalalhagh&repo=kamalalhagh&bg_color=0d1117&title_color=00FF41&icon_color=00D9FF&text_color=c9d1d9&hide_border=true&description_lines_count=2&cache_seconds=86400" alt="Profile"/>
 </a>
 
 <br/><br/>
@@ -113,8 +113,6 @@
 ---
 
 <!-- ─── EXPERIENCE ─────────────────────────────────────────────────────── -->
-<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/bar_experience.svg"/>
-
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/experience.svg" alt="experience timeline"/>
 </div>
@@ -124,8 +122,6 @@
 ---
 
 <!-- ─── CERTIFICATIONS ─────────────────────────────────────────────────── -->
-<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/bar_certs.svg"/>
-
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/certs.svg" alt="certifications"/>
 </div>
@@ -135,8 +131,6 @@
 ---
 
 <!-- ─── EDUCATION ──────────────────────────────────────────────────────── -->
-<img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/bar_education.svg"/>
-
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/kamalalhagh/kamalalhagh/main/assets/education.svg" alt="education"/>
 </div>
@@ -150,13 +144,13 @@
 
 ### `// GITHUB METRICS`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamalalhagh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00D9FF&text_color=c9d1d9&ring_color=00FF41" alt="stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamalalhagh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00D9FF&text_color=c9d1d9&ring_color=00FF41&cache_seconds=86400" alt="stats"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalalhagh&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=8" alt="top langs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalalhagh&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="top langs"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=kamalalhagh&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00D9FF&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=8b949e&stroke=00FF4122" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=kamalalhagh&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00D9FF&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=8b949e&stroke=00FF4122&cache_seconds=86400" alt="streak"/>
 
 </div>
 
