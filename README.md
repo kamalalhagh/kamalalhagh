@@ -75,16 +75,6 @@
 
 ### `// FEATURED WORK`
 
-<a href="https://github.com/kamalalhagh/kevinnet-dns" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamalalhagh&repo=kevinnet-dns&bg_color=0d1117&title_color=00FF41&icon_color=00D9FF&text_color=c9d1d9&hide_border=true&description_lines_count=2&cache_seconds=86400" alt="KevinNet DNS"/>
-</a>
-&nbsp;
-<a href="https://github.com/kamalalhagh/kamalalhagh" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamalalhagh&repo=kamalalhagh&bg_color=0d1117&title_color=00FF41&icon_color=00D9FF&text_color=c9d1d9&hide_border=true&description_lines_count=2&cache_seconds=86400" alt="Profile"/>
-</a>
-
-<br/><br/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -94,6 +84,8 @@
 
 `Python` · `Tkinter` · `DNS` · `Networking`
 
+[**`→ View repository`**](https://github.com/kamalalhagh/kevinnet-dns)
+
 </td>
 <td width="50%" valign="top">
 
@@ -101,6 +93,8 @@
 > Hand-built terminal-aesthetic profile with custom SVG cards, automated 3D contribution graphs via GitHub Actions, and a maintained typing reel.
 
 `SVG` · `GitHub Actions` · `Design`
+
+[**`→ View source`**](https://github.com/kamalalhagh/kamalalhagh)
 
 </td>
 </tr>
